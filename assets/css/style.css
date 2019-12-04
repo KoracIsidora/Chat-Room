@@ -1,0 +1,58 @@
+body {
+    background-image: url("https://wallpapercave.com/wp/wp3998720.jpg");
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+button {
+    padding: 10px;
+    border-radius: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: orange;
+    outline: none;
+}
+button:hover {
+    background: rgb(131, 226, 131);
+}
+input {
+    padding: 10px;
+    border-radius: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: inline;
+    margin: 10px;
+}
+p,
+label {
+    display: inline;
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#app {
+    text-align: center;
+}
+.user {
+    border: 2px solid yellow;
+    border-radius: 5px;
+    width: 30%;
+    padding: 20px;
+    margin: 0 auto 10px auto;
+    color: yellow;
+}
+.mymsg {
+    margin: 10px;
+}
+.klasaprva,
+.klasadruga{
+    display: inline;
+    margin: 50px;
+}
+.nesto {
+    width: 1340px;
+    overflow-y: scroll;
+    height: 300px;
+    margin: 50px auto 50px auto;
+    text-align: left;   
+}
+
+
